@@ -1,0 +1,99 @@
+body {
+    background-color:#b0e0e6;
+    border-style: solid;
+    border-color: purple;
+  
+}
+.fui{
+  font-style: italic;
+}
+h1 {
+  color: black;
+  text-align: center;
+  font-size: 4.5em;
+}
+h2{
+  color: black;
+  text-align: center;
+  font-size: 3.5em;
+}
+.harss{
+   margin-right: 8cm;
+}
+.hars {
+  margin-top: 1cm;
+  margin-bottom: 0cm;
+  margin-right: 0cm;
+  margin-left: 0cm;
+  font-size: 19pt;
+}
+.harsss{
+  font-size: 22pt;
+}
+.harssss{
+  border-style: solid;
+  border: 2px solid green;
+}
+.yolo{
+  border-style: solid;
+  border-width: 1px; 
+}
+.haha{
+  border: 2px solid black;
+  border-style: solid;
+  background-image: url("https://media1.tenor.com/images/abf1ea96e2430d1f315a4142ed630193/tenor.gif?itemid=10671781");
+  background-repeat: no-repeat;
+  background-position: bottom right;
+}
+.new{
+  border-style: inset;
+}
+
+
+.bye{
+   margin-right: 23cm;
+  border-style: solid;
+  border: 2px solid brown;
+}
+
+#h1{
+  font-size: 22pt;
+}
+
+#h2{
+  font-size: 22pt;
+}
+
+.class_1{
+  background-color:Blue;
+}
+.class_2{
+  background-color:red;
+}
+
+#daru1{
+  margin-right: 34cm;
+  font-size: 33pt;
+}
+#daru2{
+  margin-right: 34cm;
+  font-size: 33pt;
+}
+
+canvas{
+  width:259px;
+  height:220px;
+}
+
+
+
+
+
+input {
+  font-size:19pt;
+}
+canvas{
+  border: 1px solid blue;
+  height:60px;
+  //width:400px;
+}
